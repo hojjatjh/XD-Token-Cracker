@@ -34,8 +34,8 @@ python XD_TC.py
 
 ## Input parameters for the command:
 
-t_in  : Name of the file containing the token list (*txt format*)
-t_out : Name of the output file for valid tokens (*txt format*)
+1. t_in  : Name of the file containing the token list (*txt format*) 
+1. t_out : Name of the output file for valid tokens (*txt format*)
 
 
 ## Example
