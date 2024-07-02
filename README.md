@@ -45,7 +45,7 @@ t_in=tokenlist.txt-t_out=output.txt
 ```
 This command tells the tool that you have a file named tokenlist.txt containing the token list, and the output will be a file named output.txt created automatically.
 
-<span style="color:red">Remember to separate parameters with (-)</span>
+<code style="color : Red">Remember to separate parameters with (-)</code>
 
 
 ## Developers
